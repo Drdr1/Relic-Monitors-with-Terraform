@@ -1,0 +1,22 @@
+[
+  {
+    "Endpoint": null,
+    "ModelName": "gpt-4",
+    "ApiKeyCredential": "AZURE_OPENAI_API_KEY_1"
+  },
+  {
+    "Endpoint": null,
+    "ModelName": "o3-mini",
+    "ApiKeyCredential": "AZURE_OPENAI_API_KEY_1"
+  },
+  {
+    "Endpoint": null,
+    "ModelName": "gpt-35-turbo",
+    "ApiKeyCredential": "AZURE_OPENAI_API_KEY_2"
+  },
+  {
+    "Endpoint": null,
+    "ModelName": "o1",
+    "ApiKeyCredential": "AZURE_OPENAI_API_KEY_2"
+  }
+]
